@@ -1,5 +1,12 @@
-### Hi there 👋, my name is Shiva
-I study Control Engineering at the Sapienza University of Rome. I really enjoy Control and whatever involves control. I am interested in Robotics and I'm trying to get better in this field.
+<div style="text-align: left">
+   Hi there 👋, I'm Shiva
+   I am a Control Engineer. I am interested in robotics and Computer vision.
+</div>
+
+<div id="header" align="right">
+  <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="500"/>
+</div>
+
 
 
 

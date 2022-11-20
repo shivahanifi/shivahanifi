@@ -23,10 +23,10 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" width="40">
    <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" width="35">
    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="40">
-   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="60">
    <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" width="45">
    <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" width="40">
    <img src="https://www.yarp.it/latest/yarp-logo-name.png" width="100">
+   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="60">
    <!--
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="50">
     <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="50">

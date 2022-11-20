@@ -4,7 +4,7 @@
     <td> 
       Hi there 👋, I'm Shiva.
      
-   I am a Control engineer and a Robotics enthusiast. Focused on human-robot interactions and more specifically, computer vision.</td>
+   I am a Control engineer, Robotics enthusiast and a member of humanoid sensing and perception lab at [IIT](https://www.iit.it/web/humanoid-sensing-and-perception). My focuse is on human-robot interactions, more specifically, computer vision.</td>
     <td><img style="float: right;" src="https://raw.githubusercontent.com/lauragift21/lauragift21/master/code.gif" width="400"/></td>
  </tr>
 </table>

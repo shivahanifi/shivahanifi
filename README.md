@@ -1,9 +1,10 @@
 <!---------- About ME ---------->
 <table border="0">
  <tr>
-    <td> Hi there 👋, I'm Shiva.
+    <td> 
+      Hi there 👋, I'm Shiva.
      
-   I am a Control engineer and a Robotics enthusiast, currently focused on human-robot interaction and more specifically, computer vision.</td>
+   I am a Control engineer and a Robotics enthusiast. Focused on human-robot interactions and more specifically, computer vision.</td>
     <td><img style="float: right;" src="https://raw.githubusercontent.com/lauragift21/lauragift21/master/code.gif" width="400"/></td>
  </tr>
 </table>

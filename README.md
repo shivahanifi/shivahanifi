@@ -24,6 +24,9 @@
    <img src="https://www.yarp.it/latest/yarp-logo-name.png" width="60">
 </div>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/shivahanifi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/shivahanifi/)  
 
-
+## Contact me:
+<p>
+  <a href="mailto:shiva.hnf@gmail.com?subject=Your friend from GitHub"><img src="https://user-images.githubusercontent.com/78621902/202906413-59b3790b-a1ae-4eb1-9518-497486972da3.png" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/shivahanifi/"><img src="https://user-images.githubusercontent.com/78621902/202906604-99b61c45-21c5-4c41-b081-0fa93ea19a95.png" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>

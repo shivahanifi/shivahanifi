@@ -4,7 +4,7 @@
     <td> 
       Hi there 👋, I'm Shiva.
      
-   I am a Control engineer, Robotics enthusiast and a member of Humanoid Sensing and Perception lab ([HSP](https://www.iit.it/web/humanoid-sensing-and-perception)). My work is related to human-robot interactions and more specifically, computer vision.</td>
+   I am a Control engineer and Robotics enthusiast specializing in computer vision </td>
     <td><img style="float: right;" src="https://raw.githubusercontent.com/lauragift21/lauragift21/master/code.gif" width="400"/></td>
  </tr>
 </table>
@@ -14,23 +14,31 @@
 ### Tools and Tech I Use:
 
    <div>  
-   
+   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="50">
    <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" width="40">
-   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" width="40">
+   <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" width="40">
+   <img src="https://github.com/devicons/devicon/blob/master/icons/keras/keras-original.svg" width="40">
+   <img src="https://raw.githubusercontent.com/robotology/yarp/refs/heads/master/doc/images/yarp-robot-24.png" width="40">
+   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="40">
+   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="45">
+   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="60">
+   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="45">
+   <img src="https://github.com/wandb/assets/blob/main/wandb-dots-logo.svg" width="50">
+
+
+   <!--
+      <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" width="45">
+
+      <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" width="35">
+
+      <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg" width="40">
+
+       <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" width="40">
    <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" width="40">
    <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" width="40">
-   <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg" width="40">
-   <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" width="40">
-   <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" width="35">
-   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="40">
-   <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" width="45">
-   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" width="40">
-   <img src="https://www.yarp.it/latest/yarp-logo-name.png" width="100">
-   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="60">
-   <!--
-    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="50">
     <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="50">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="50">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" width="40">
+
    -->
    </div>
 
